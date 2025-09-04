@@ -1,0 +1,3 @@
+[submodule "WS-Rental-Solutions-auth-service"]
+	path = WS-Rental-Solutions-auth-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-auth-service.git
