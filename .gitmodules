@@ -1,3 +1,21 @@
 [submodule "WS-Rental-Solutions-auth-service"]
 	path = WS-Rental-Solutions-auth-service
 	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-auth-service.git
+[submodule "WS-Rental-Solutions-api-gateway-service"]
+	path = WS-Rental-Solutions-api-gateway-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-api-gateway-service.git
+[submodule "WS-Rental-Solutions-contract-service"]
+	path = WS-Rental-Solutions-contract-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-contract-service.git
+[submodule "WS-Rental-Solutions-finance-service"]
+	path = WS-Rental-Solutions-finance-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-finance-service.git
+[submodule "WS-Rental-Solutions-notification-service"]
+	path = WS-Rental-Solutions-notification-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-notification-service.git
+[submodule "WS-Rental-Solutions-person-service"]
+	path = WS-Rental-Solutions-person-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-person-service.git
+[submodule "WS-Rental-Solutions-property-service"]
+	path = WS-Rental-Solutions-property-service
+	url = https://github.com/Willians-Henrique/WS-Rental-Solutions-property-service.git
